@@ -1,6 +1,15 @@
 # SvelteKit Pokedex
 
-Courtesy of [James Q Quick](https://www.youtube.com/channel/UC-T8W79DN6PBnzomelvqJYw) [SvelteKit Crash Course](https://www.youtube.com/watch?v=UU7MgYIbtAk)
+Courtesy of [James Q Quick](https://www.youtube.com/channel/UC-T8W79DN6PBnzomelvqJYw) SvelteKit Crash Course on [YouTube](https://www.youtube.com/watch?v=UU7MgYIbtAk) ([repo](https://github.com/jamesqquick/svelte-kit-pokedex)).
+
+## Features
+
+This Pokedex project demonstrates the following using SvelteKit
+- Severside rendering
+- API Routes (PokeAPI)
+- Stores
+- Tailwind CSS
+- and more
 
 ## SvelteKit documentation
 
