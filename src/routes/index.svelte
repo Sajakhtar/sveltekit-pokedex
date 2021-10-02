@@ -13,11 +13,3 @@
 {#each $pokemon as pokeman}
   <p>{pokeman.name}</p>
 {/each}
-
-
-
-<style>
-  h1 {
-    color: cornflowerblue;
-  }
-</style>
