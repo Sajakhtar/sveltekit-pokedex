@@ -6,13 +6,20 @@ Courtesy of [James Q Quick](https://www.youtube.com/channel/UC-T8W79DN6PBnzomelv
 
 This Pokedex project demonstrates the following using SvelteKit
 - Severside rendering
-- API Routes ([PokeAPI](https://pokeapi.co/docs/v2))
-  - Endpoint: https://pokeapi.co/api/v2/pokemon/?limit=150
+- API Routes
 - Stores
 - Tailwind CSS
   - [YouTube](https://www.youtube.com/c/TailwindLabs/featured) for tutorials and latest developments
   - [setup guide for SvelteKit](https://jsco.dev/blog/how-to-set-up-tailwindcss-with-svelte-kit)
 - and more
+
+
+Pokemon data is fetched from the ([PokeAPI](https://pokeapi.co/docs/v2))
+
+Endpoints:
+- https://pokeapi.co/api/v2/pokemon/?limit=150
+- https://pokeapi.co/api/v2/pokemon/:id e.g https://pokeapi.co/api/v2/pokemon/1
+
 
 ## SvelteKit documentation
 
