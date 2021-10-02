@@ -10,6 +10,7 @@ This Pokedex project demonstrates the following using SvelteKit
   - Endpoint: https://pokeapi.co/api/v2/pokemon/?limit=150
 - Stores
 - Tailwind CSS
+  - [setup guide](https://jsco.dev/blog/how-to-set-up-tailwindcss-with-svelte-kit)
 - and more
 
 ## SvelteKit documentation
