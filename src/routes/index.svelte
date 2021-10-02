@@ -1,6 +1,6 @@
 <script>
   import { pokemon } from "../stores/pokestore"
-  console.log($pokemon)
+  import PokemanCard from "../components/pokemanCard.svelte"
 </script>
 
 
@@ -11,5 +11,5 @@
 <h1 class="text-4xl text-center my-8 uppercase">SvelteKit Pokedex</h1>
 
 {#each $pokemon as pokeman}
-  <p>{pokeman.name}</p>
+  <PokemanCard pokeman={pokeman} />
 {/each}
