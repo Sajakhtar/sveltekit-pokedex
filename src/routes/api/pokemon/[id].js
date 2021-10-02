@@ -12,4 +12,4 @@ export async function get({ params }) {
 }
 
 
-// navigate to http://localhost:3000/api/pokemon/1 to see results
+// navigate to http://localhost:3000/api/pokemon/1 to see results, or use any other ID
