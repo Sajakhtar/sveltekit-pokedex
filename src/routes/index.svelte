@@ -10,7 +10,7 @@
         image: `https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/${index + 1}.png`
       }
     });
-    return {props: {pokemon: loadedPokemon}}
+    return {props: {pokemon: loadedPokemon}};
   }
 </script>
 

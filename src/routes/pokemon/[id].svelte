@@ -10,7 +10,7 @@
 
 <script>
   export let pokeman;
-  const type = pokeman.types[0].type.name
+  const type = pokeman.types[0].type.name;
 </script>
 
 <svelte:head>
